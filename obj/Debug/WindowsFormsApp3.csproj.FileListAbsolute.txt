@@ -1,0 +1,14 @@
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddMemberForm.resources
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.AddStudentForm.resources
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditMemberForm.resources
+C:\Users\evrjm\OneDrive\Рабочий стол\csharp\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.EditStudentForm.resources
